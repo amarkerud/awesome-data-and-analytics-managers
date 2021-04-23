@@ -140,7 +140,8 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Building Stream Processing as a Service](https://lnkd.in/dtR7cb3) - Steven Wu *(Netflix)*
 
 ## Technologies
-
+ * Open source
+ * [What is the open data ecosystem and why its here to stay](https://medium.com/sapphire-ventures-perspectives/what-is-the-open-data-ecosystem-and-why-its-here-to-stay-60c06f19011b)
  * Business Intelligence
    * [The Future of Business Intelligence is Open Source](https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a) - Maxime Beauchemin *(Founder Superset/Airflow)*
 
@@ -165,7 +166,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
    * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
    * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
-   * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
+   * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/) 
 
 
 ## Startups
