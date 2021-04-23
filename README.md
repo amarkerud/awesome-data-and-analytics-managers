@@ -106,7 +106,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
    * [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1)
 
 ## Roles
-
+ * [Why data science teams don't think they need data engineering](https://www.jesse-anderson.com/2021/04/why-data-science-teams-dont-think-they-need-data-engineering/) - Jesse Anderson
  * Data Engineers
    * [The Rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603) - Maxime Beauchemin *(Founder Superset/Airflow)*
    * [The Downfall of the Data Engineer](https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b) - Maxime Beauchemin *(Founder Superset/Airflow)*
