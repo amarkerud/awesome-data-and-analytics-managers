@@ -134,6 +134,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
 ## Data Mesh
+ * [When should organisation think about Data Mesh](https://futurice.com/blog/when-should-organizations-consider-data-mesh) - Aleksi Roima *(Futurice)*
  * [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html) - Zhamak Dehghani
  
 ## Data Streaming
