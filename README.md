@@ -20,6 +20,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Technologies](#technologies)
  * [Data Ops](#data-ops)
  * [More links](#more-links)
+ * [News letters](#news-letters)
 
 
 ## General
@@ -202,6 +203,10 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) *(GitHub)*
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
  * [How we scaled our data team from 1 to 30 people](https://monzo.com/blog/2019/11/04/how-we-scaled-our-data-team-from-1-to-30-people-part-1) *(Monzo)*
+
+## News letters
+
+ * [Data Mesh News letter](https://datameshlearning.substack.com/) *(Datamesh learning)*
 
  
  
