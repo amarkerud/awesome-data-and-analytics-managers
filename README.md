@@ -38,7 +38,6 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  
 ## Management
 
- * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
  * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - Charity Majors
  * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham *(Y Combinator)*
  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
