@@ -15,6 +15,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Development process](#development-process)
  * [Roles](#roles)
  * [Architecture](#architecture)
+ * [Data Quality](#dataquality)
  * [Data Mesh](#datamesh)
  * [Data Streaming](#datastreaming)
  * [Technologies](#technologies)
@@ -133,6 +134,9 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+
+## Data Quality
+ * [Data Quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7) - Jonathan Parks *(Airbnb)*
 
 ## Data Mesh
  * [When should organisation think about Data Mesh](https://futurice.com/blog/when-should-organizations-consider-data-mesh) - Aleksi Roima *(Futurice)*
