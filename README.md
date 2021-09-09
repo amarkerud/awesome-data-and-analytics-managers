@@ -28,7 +28,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Chief Data Officers Struggle To Make A Business Impact](https://www.forbes.com/sites/ciocentral/2019/06/24/chief-data-officers-struggle-to-make-a-business-impact/?sh=43ead4fcf1a4) - Randy Bean *(Forbes)*
  * [An Emerging Consensus Among Chief Data Officers](https://www.forbes.com/sites/tomdavenport/2020/02/26/an-emerging-consensus-among-chief-data-officers/?sh=1f7472661315) - Tom Davenport *(Forbes)*
  * [Are You Asking Too Much of Your Chief Data Officer?](https://hbr.org/2020/02/are-you-asking-too-much-of-your-chief-data-officer) - Tom Davenport *(Harvard Business Review)*
- * [Ubers Journey toward better data culture from firs principle](https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/) *(Uber)*
+ * [Ubers Journey toward better data culture from first principle](https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/) *(Uber)*
  * [Breaking away the secrets to scaling Analytics](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/breaking-away-the-secrets-to-scaling-analytics) *(Mckinsey)*
  
 ## Hiring
