@@ -138,13 +138,12 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
 ## Data Quality
  * [Data Quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7) - Jonathan Parks *(Airbnb)*
-
+ * [Data Quality - Thorughtworks](https://www.thoughtworks.com/insights/blog/how-much-can-you-trust-your-data)
 ## Data Management
  * [How Google, Uber, and Amazon Ensure High-Quality Data at Scale](https://medium.com/swlh/how-3-of-the-top-tech-companies-approach-data-quality-79c3146fd959) - Kevin Babitz
  * [People in data](https://francois-nguyen.blog/2020/12/25/people-in-data-my-favorite-for-2020-barr-moses/) - Kevin Babitz
  * [Data Cataloges](https://towardsdatascience.com/data-catalogs-are-dead-long-live-data-discovery-a0dc8d02bd34) - Barr Moses
  * [Data Mesh](https://www.thoughtworks.com/insights/blog/data-mesh-its-not-about-tech-its-about-ownership-and-communication)
-
 
 ## Data Mesh
  * [When should organisation think about Data Mesh](https://futurice.com/blog/when-should-organizations-consider-data-mesh) - Aleksi Roima *(Futurice)*
