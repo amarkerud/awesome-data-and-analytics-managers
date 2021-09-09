@@ -143,6 +143,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [How Google, Uber, and Amazon Ensure High-Quality Data at Scale](https://medium.com/swlh/how-3-of-the-top-tech-companies-approach-data-quality-79c3146fd959) - Kevin Babitz
  * [People in data](https://francois-nguyen.blog/2020/12/25/people-in-data-my-favorite-for-2020-barr-moses/) - Kevin Babitz
  * [Data Cataloges](https://towardsdatascience.com/data-catalogs-are-dead-long-live-data-discovery-a0dc8d02bd34) - Barr Moses
+ * [Data Mesh](https://www.thoughtworks.com/insights/blog/data-mesh-its-not-about-tech-its-about-ownership-and-communication)
 
 
 ## Data Mesh
