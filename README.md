@@ -8,6 +8,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
 ## Contents
 
+ * [Events](#events)
  * [General](#general)
  * [Hiring](#hiring)
  * [Management](#management)
@@ -15,22 +16,25 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Development process](#development-process)
  * [Roles](#roles)
  * [Architecture](#architecture)
- * [Data Quality](#dataquality)
- * [Data management](#datamanagement)
  * [Data Mesh](#datamesh)
  * [Data Streaming](#datastreaming)
  * [Technologies](#technologies)
  * [Data Ops](#data-ops)
  * [More links](#more-links)
- * [News letters](#news-letters)
+
+## Events
+### September
+ * [Building the modern stack with open source data solutions | Sept. 28 - 30](https://www.opensourcedatastack.com/schedule) 
+### October
+ * [DataEngBytes! is a community conference centred on real world data engineering problems and solutions | Oct. 5 - 7](https://dataengconf.com.au/sessions) 
 
 
 ## General
  * [Chief Data Officers Struggle To Make A Business Impact](https://www.forbes.com/sites/ciocentral/2019/06/24/chief-data-officers-struggle-to-make-a-business-impact/?sh=43ead4fcf1a4) - Randy Bean *(Forbes)*
  * [An Emerging Consensus Among Chief Data Officers](https://www.forbes.com/sites/tomdavenport/2020/02/26/an-emerging-consensus-among-chief-data-officers/?sh=1f7472661315) - Tom Davenport *(Forbes)*
  * [Are You Asking Too Much of Your Chief Data Officer?](https://hbr.org/2020/02/are-you-asking-too-much-of-your-chief-data-officer) - Tom Davenport *(Harvard Business Review)*
- * [Ubers Journey toward better data culture from first principle](https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/) *(Uber)*
- * [Breaking away the secrets to scaling Analytics](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/breaking-away-the-secrets-to-scaling-analytics) *(Mckinsey)*
+ * [Uber](https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/)
+ * [CDO books](https://carruthersandjackson.com/thought-leadership-our-books/)
  
 ## Hiring
 * [Recruiting, hiring, and managing talent](https://stripe.com/en-se/guides/recruiting-hiring-and-managing-talent) - Elad Gil *(Author of High Growth Handbook)*
@@ -40,6 +44,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  
 ## Management
 
+ * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
  * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - Charity Majors
  * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham *(Y Combinator)*
  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
@@ -109,7 +114,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
    * [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1)
 
 ## Roles
- * [Why data science teams don't think they need data engineering](https://www.jesse-anderson.com/2021/04/why-data-science-teams-dont-think-they-need-data-engineering/) - Jesse Anderson
+
  * Data Engineers
    * [The Rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603) - Maxime Beauchemin *(Founder Superset/Airflow)*
    * [The Downfall of the Data Engineer](https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b) - Maxime Beauchemin *(Founder Superset/Airflow)*
@@ -136,25 +141,14 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
 
-## Data Quality
- * [Data Quality at Airbnb](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7) - Jonathan Parks *(Airbnb)*
- * [Data Quality - Thorughtworks](https://www.thoughtworks.com/insights/blog/how-much-can-you-trust-your-data)
-## Data Management
- * [How Google, Uber, and Amazon Ensure High-Quality Data at Scale](https://medium.com/swlh/how-3-of-the-top-tech-companies-approach-data-quality-79c3146fd959) - Kevin Babitz
- * [People in data](https://francois-nguyen.blog/2020/12/25/people-in-data-my-favorite-for-2020-barr-moses/) - Kevin Babitz
- * [Data Cataloges](https://towardsdatascience.com/data-catalogs-are-dead-long-live-data-discovery-a0dc8d02bd34) - Barr Moses
- * [Data Mesh](https://www.thoughtworks.com/insights/blog/data-mesh-its-not-about-tech-its-about-ownership-and-communication)
-
 ## Data Mesh
- * [When should organisation think about Data Mesh](https://futurice.com/blog/when-should-organizations-consider-data-mesh) - Aleksi Roima *(Futurice)*
  * [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html) - Zhamak Dehghani
  
 ## Data Streaming
  * [Building Stream Processing as a Service](https://lnkd.in/dtR7cb3) - Steven Wu *(Netflix)*
 
 ## Technologies
- * Open source
- * [What is the open data ecosystem and why its here to stay](https://medium.com/sapphire-ventures-perspectives/what-is-the-open-data-ecosystem-and-why-its-here-to-stay-60c06f19011b)
+
  * Business Intelligence
    * [The Future of Business Intelligence is Open Source](https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a) - Maxime Beauchemin *(Founder Superset/Airflow)*
 
@@ -179,7 +173,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
    * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
    * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
    * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
-   * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/) 
+   * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
 
 
 ## Startups
@@ -212,11 +206,7 @@ Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
  * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) *(GitHub)*
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
- * [How we scaled our data team from 1 to 30 people](https://monzo.com/blog/2019/11/04/how-we-scaled-our-data-team-from-1-to-30-people-part-1) *(Monzo)*
-
-## News letters
-
- * [Data Mesh News letter](https://datameshlearning.substack.com/) *(Datamesh learning)*
+ * [Monzo - How we scaled our data team from 1 to 30 people](https://monzo.com/blog/2019/11/04/how-we-scaled-our-data-team-from-1-to-30-people-part-1)
 
  
  
