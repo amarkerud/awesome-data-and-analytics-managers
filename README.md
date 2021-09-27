@@ -3,7 +3,6 @@
 Hi :wave: my name is Andreas and I'm working with Data, Analytics & Data Science
 
 This is a curated and opinionated list of resources for Data & Analytics Managers and leaders
-The aim is to cover the broader space and not provide all ins and outs of e.g. Airflow or other technologies. 
 This is inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
 Please feel free to contribute :rocket:
