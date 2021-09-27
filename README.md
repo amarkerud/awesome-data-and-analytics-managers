@@ -1,9 +1,11 @@
 # Awesome Data & Analytics Managers
 
-Hi :wave: my name is Andreas and I'm Head of Data, Analytics & Data Science
+Hi :wave: my name is Andreas and I'm working with Data, Analytics & Data Science
 
 This is a curated **and opinionated** list of resources for Data & Analytics Managers  
 Inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
+
+Please feel free to contribute :rocket:
 
 
 ## Contents
