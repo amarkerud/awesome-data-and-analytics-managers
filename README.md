@@ -1,6 +1,7 @@
 # Awesome Data & Analytics Managers
 
-Hi :wave: my name is Andreas and I'm working with Data, Analytics & Advanced Analytics aka Data Science\
+Hi :wave: \ 
+My name is Andreas and I'm working with Data, Analytics & Advanced Analytics aka Data Science\
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/amarkerud.svg?style=social&label=Follow%20%40amarkerud)](https://twitter.com/amarkerud)
 
 
