@@ -1,4 +1,4 @@
-# Awesome Data & Analytics Managers
+# Awesome Data & Analytics
 
 Hi :wave:   
 My name is Andreas and I'm working with Data, Analytics & Advanced Analytics aka Data Science\
