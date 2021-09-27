@@ -3,8 +3,8 @@
 Hi :wave: my name is Andreas and I'm working with Data, Analytics & Advanced Analytics aka Data Science
 
 This is a curated and opinionated list of resources for Data & Analytics Managers and leaders
-This is inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 
+This is inpired by https://github.com/kuchin/awesome-cto/blob/master/README.md
 Please feel free to contribute :rocket:
 
 
