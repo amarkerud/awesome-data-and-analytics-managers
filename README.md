@@ -22,6 +22,7 @@ Please feel free to contribute :rocket:
  * [Development process](#development-process)
  * [Roles](#roles)
  * [Architecture](#architecture)
+ * [Data Management](#datamanagement)
  * [Data Mesh](#datamesh)
  * [Data Streaming](#datastreaming)
  * [Technologies](#technologies)
@@ -146,6 +147,10 @@ Please feel free to contribute :rocket:
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+
+## Data Management
+ * [Data Quality - Great Expectations](https://greatexpectations.io/)
+
 
 ## Data Mesh
  * [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html) - Zhamak Dehghani
