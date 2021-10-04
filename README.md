@@ -31,9 +31,7 @@ Please feel free to contribute :rocket:
  * [More links](#more-links)
 
 ## Events
-### September
-~~[Building the modern stack with open source data solutions | Sept. 28 - 30](https://www.opensourcedatastack.com/schedule)	~~
-### October
+### October 2021
  * [DataEngBytes! is a community conference centred on real world data engineering problems and solutions | Oct. 5 - 7](https://dataengconf.com.au/sessions) 
 
 ## 2021 MAD Landscape
