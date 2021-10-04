@@ -15,6 +15,7 @@ Please feel free to contribute :rocket:
 ## Contents
 
  * [Events](#events)
+ * [Data, Analytics & ML Landscape 2021](#landscape)
  * [General](#general)
  * [Hiring](#hiring)
  * [Management](#management)
@@ -35,6 +36,8 @@ Please feel free to contribute :rocket:
 ### October
  * [DataEngBytes! is a community conference centred on real world data engineering problems and solutions | Oct. 5 - 7](https://dataengconf.com.au/sessions) 
 
+## 2021 MAD Landscape
+ * [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/) - Matt Turck *(VC at FirstMark)*
 
 ## General
  * [Chief Data Officers Struggle To Make A Business Impact](https://www.forbes.com/sites/ciocentral/2019/06/24/chief-data-officers-struggle-to-make-a-business-impact/?sh=43ead4fcf1a4) - Randy Bean *(Forbes)*
