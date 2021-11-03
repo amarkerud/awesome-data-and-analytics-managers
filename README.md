@@ -156,7 +156,7 @@ Please feel free to contribute :rocket:
    * [Data Quality - Great Expectations](https://greatexpectations.io/)
  
  * Data Literacy
-   * [How to build data literacy in your company](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-data-literacy-your-company) - MIT
+   * [How to build data literacy in your company](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-data-literacy-your-company) - Sara Brown * MIT *
 
 ## Data Mesh
  * [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html) - Zhamak Dehghani
