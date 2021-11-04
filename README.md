@@ -157,6 +157,8 @@ Please feel free to contribute :rocket:
  
  * Data Literacy
    * [How to build data literacy in your company](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-data-literacy-your-company) - Sara Brown * MIT *
+   * [Avoid 5 Pitfalls When Building Data and Analytics Teams](https://www.gartner.com/smarterwithgartner/avoid-5-pitfalls-when-building-data-and-analytics-teams) - * Gartner *
+
 
 ## Data Mesh
  * [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html) - Zhamak Dehghani
