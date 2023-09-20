@@ -31,12 +31,10 @@ Please feel free to contribute :rocket:
  * [More links](#more-links)
 
 ## Events
-### October 2021
- * [DataEngBytes! is a community conference centred on real world data engineering problems and solutions | Oct. 5 - 7](https://dataengconf.com.au/sessions) 
-
-## 2021 Landscapes
- * [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/) - Matt Turck *(VC at FirstMark)*
- * [The Modern Data Stack](https://snowplowanalytics.com/wp-content/uploads/sites/3/2021/07/v8-Architas-3.png) - *Snowplow*
+### October 2023
+ * [Snowflake Data cloud world tour](https://www.snowflake.com/events/data-cloud-world-tour-stockholm/)
+ * [dbt meetup - STHLM]((https://www.meetup.com/stockholm-dbt-meetup/events/295653426/)
+ * [dbt meetup - CPH](https://www.meetup.com/copenhagen-dbt-meetup/events/295822528/)
 
 
 ## General
