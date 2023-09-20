@@ -35,7 +35,6 @@ Please feel free to contribute :rocket:
  * [Snowflake Data cloud world tour](https://www.snowflake.com/events/data-cloud-world-tour-stockholm/)
  * [dbt meetup - STHLM](https://www.meetup.com/stockholm-dbt-meetup/events/295653426/)
 
-## Events
 ### September 2023
  * [dbt meetup - CPH](https://www.meetup.com/copenhagen-dbt-meetup/events/295822528/)
 
